@@ -1,1 +1,0 @@
-{"version":3,"file":"result.component.js","sourceRoot":"","sources":["result.component.ts"],"names":[],"mappings":"","sourcesContent":["export interface Result{\n    cname: string;\n    iname: string;\n    value: number;\n}"]}
