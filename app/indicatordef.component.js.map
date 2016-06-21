@@ -1,0 +1,1 @@
+{"version":3,"file":"indicatordef.component.js","sourceRoot":"","sources":["indicatordef.component.ts"],"names":[],"mappings":"","sourcesContent":["export interface IndicatorDef{\n    icode: string;\n    iname: string;\n    longdef: string;\n    source: string;\n}"]}
